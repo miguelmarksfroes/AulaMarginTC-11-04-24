@@ -1,0 +1,15 @@
+section
+{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+article
+{
+    width: 500px;
+    border: 2px solid rebeccapurple;
+    text-align: justify;
+    margin: auto;
+}
